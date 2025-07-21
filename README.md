@@ -1,4 +1,4 @@
-# 🇮🇳 Operation SINDOOR Web Page
+# Operation SINDOOR Web Page
 
 This project is a themed **HTML + CSS landing page** titled **"Operation SINDOOR"**, dedicated to showcasing elements of the Indian Armed Forces using a responsive grid layout and a patriotic background.
 
